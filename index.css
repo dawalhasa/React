@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: #000;
+  color: lightgray;
+}
+h1{
+  text-align: center;
+}
+p{
+  width: 80%;
+  text-align:justify;
+  margin: auto;
+}
+footer{
+  margin:auto;
+  max-height: 100%;
+  text-align: center;
+  font-size: x-large;
+  font-weight: bold;
+}
